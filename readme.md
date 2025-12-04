@@ -37,7 +37,7 @@ It includes **role-based authentication** (Admin, Doctor, Patient) with **JWT to
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/asadjalbani/health-backend.git
+git clone https://github.com/umargithub555/Hospital-Backend-FastApi.git
 cd health-backend
 ```
 
